@@ -1,2 +1,8 @@
 # MotherNature
-[Project Overview](https://docs.google.com/document/d/1n6J5yJHt2HAPvh0_nPv8PuqckkVcTNYpgVMvQU406Dg/edit?tab=t.0)
+
+### Overview: <br>
+We take a look at climate, temperature, and certain factors like CO2 emissions from different countries over recent years in order to answer the following question: <br>
+
+**Which area of the world is most responsible for Global Warming?** <br> <br>
+
+View the project inside the mother_nature.ipynb file!
